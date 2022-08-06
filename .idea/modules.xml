@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tarjima-wikbot.iml" filepath="$PROJECT_DIR$/.idea/Tarjima-wikbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aiogram-bot-template-master.iml" filepath="$PROJECT_DIR$/.idea/aiogram-bot-template-master.iml" />
     </modules>
   </component>
 </project>
