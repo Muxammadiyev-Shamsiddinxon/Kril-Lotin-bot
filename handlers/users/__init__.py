@@ -1,5 +1,5 @@
 from . import start
-from . import imlo
+from . import kril_lotin
 
 
 
