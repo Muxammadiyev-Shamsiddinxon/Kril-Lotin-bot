@@ -10,7 +10,7 @@ from handlers.transliterate import to_cyrillic,to_latin
 
 
 @dp.message_handler()
-async def imlo_bot(message: types.Message):
+async def kril_lotin(message: types.Message):
     xabar = message.text
     if xabar.isascii():
         javob = f"<code>\n{to_cyrillic(xabar)}\n</code>"
